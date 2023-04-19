@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "641c1c7e031447eee335424d"
+  },
+  "name": "David ben gurion",
+  "info": "Ben-Gurion's passion for Zionism, which began early in life, led him to become a major Zionist leader and executive head of the World Zionist Organization in 1946.[1] As head of the Jewish Agency from 1935, and later president of the Jewish Agency .",
+  "birth_year": 1906,
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/David_Ben-Gurion_%28D597-087%29.jpg/220px-David_Ben-Gurion_%28D597-087%29.jpg",
+  "date_created": {
+    "$date": "2023-03-23T09:31:42.661Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641c1cd7031447eee335424f"
+  },
+  "name": "Albert Einstein",
+  "info": "Albert Einstein (/ˈaɪnstaɪn/ EYEN-styne;[4] German: [ˈalbɛʁt ˈʔaɪnʃtaɪn] (listen); 14 March 1879 – 18 April 1955) was a German-born theoretical physicist,[5] widely acknowledged to be one of the greatest and most influential physicists of all time. Einstein is best known for developing the theory of relativity.",
+  "birth_year": 1879,
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/220px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg",
+  "date_created": {
+    "$date": "2023-03-23T09:33:11.519Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641c1d62031447eee3354251"
+  },
+  "name": "Chaim Weizmann",
+  "info": "Chaim Azriel Weizmann (Hebrew: חיים עזריאל ויצמן Chayyim Azri'el Vaytsman, Russian: Хаим Евзорович Вейцман, Khaim Evzorovich Veytsman; 27 November 1874 – 9 November 1952) was a Russian-born biochemist, Zionist leader and Israeli statesman who served as president of the Zionist Organization and later as the first president of Israel. He was elected on 16 February 1949",
+  "birth_year": 1874,
+  "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flickr_-_Government_Press_Office_%28GPO%29_-_President_Chaim_Weizmann.jpg/220px-Flickr_-_Government_Press_Office_%28GPO%29_-_President_Chaim_Weizmann.jpg",
+  "date_created": {
+    "$date": "2023-03-23T09:35:30.313Z"
+  },
+  "__v": 0
+}]

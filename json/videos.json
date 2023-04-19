@@ -1,0 +1,103 @@
+[{
+  "_id": {
+    "$oid": "6422ae80a27f8047db90e20e"
+  },
+  "title": "Math for 1th grade video a",
+  "info": "1st Grade math is awesome with these lesson videos! Each lesson can help students with word problems, math games and can line up with your curriculum! Learn subtraction, addition, even and odd, and more!",
+  "video_url": "https://www.youtube.com/watch?v=xX5caFM5xMY",
+  "company": "youtube",
+  "category_code": "math",
+  "img_url": "https://images.pexels.com/photos/6623833/pexels-photo-6623833.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "views": 0,
+  "likes": 0,
+  "date_created": {
+    "$date": "2023-03-28T09:08:16.934Z"
+  },
+  "user_id": "64229622073568668885db38",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6422aecea27f8047db90e210"
+  },
+  "title": "Abc for 1th grade video a",
+  "info": "Educational shows for kids teach them the alphabet, the different types of vehicles, sorting shapes and learning how to count in a fun way.",
+  "video_url": "https://www.youtube.com/watch?v=drlIUqRYM-w",
+  "company": "youtube",
+  "category_code": "abc",
+  "img_url": "https://images.pexels.com/photos/7333608/pexels-photo-7333608.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "views": 0,
+  "likes": 0,
+  "date_created": {
+    "$date": "2023-03-28T09:09:34.862Z"
+  },
+  "user_id": "64229622073568668885db38",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6437bc69f65f5c8de942821c"
+  },
+  "title": "coco melon ABC",
+  "info": "It’s time to learn the alphabet!  Sing the ABCs along with us!",
+  "video_url": "https://www.youtube.com/watch?v=iXri4xxHmKE",
+  "company": "youtube",
+  "category_code": "abc",
+  "img_url": "https://i.ytimg.com/vi/iXri4xxHmKE/hqdefault.jpg",
+  "views": 0,
+  "likes": 0,
+  "date_created": {
+    "$date": "2023-04-13T08:25:13.598Z"
+  },
+  "user_id": "642297fa073568668885db3a",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6437c2dcf65f5c8de9428237"
+  },
+  "title": "Lucas abc",
+  "info": "It's the ABC flashcard for toddlers, a fun and educational way that helps kids learn letters! 🤩 Colorful pictures and adorable animations illustrate the alphabet, while friends Lucas 🦁 and Ruby",
+  "video_url": "https://www.youtube.com/watch?v=p-kAI-qOeJA",
+  "company": "youtube",
+  "category_code": "abc",
+  "img_url": "https://i.ytimg.com/vi/p-kAI-qOeJA/hqdefault.jpg",
+  "views": 0,
+  "likes": 0,
+  "date_created": {
+    "$date": "2023-04-13T08:52:44.460Z"
+  },
+  "user_id": "642297fa073568668885db3a",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6437c35df65f5c8de942823b"
+  },
+  "title": "ABC song 1",
+  "info": "Baby goes to Old MacDonald’s Farm -   \n Baby goes to Old ...  \nBaby Loves Stargazing - Twinkle Twinkle Little Star",
+  "video_url": "https://www.youtube.com/watch?v=hq3yfQnllfQ",
+  "company": "youtube",
+  "category_code": "abc",
+  "img_url": "https://i.ytimg.com/vi/hq3yfQnllfQ/hqdefault.jpg",
+  "views": 0,
+  "likes": 0,
+  "date_created": {
+    "$date": "2023-04-13T08:54:53.791Z"
+  },
+  "user_id": "642297fa073568668885db3a",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6437c3acf65f5c8de942823f"
+  },
+  "title": "Math with Dinosaurs",
+  "info": "Educational video for children to learn how to add and subtract in a fun way. This is a compilation of several addition and subtraction videos. Are you ready to learn how to add and subtract with our friends the dinosaurs?",
+  "video_url": "https://www.youtube.com/watch?v=igcoDFokKzU",
+  "company": "youtube",
+  "category_code": "math",
+  "img_url": "https://i.ytimg.com/vi/igcoDFokKzU/hqdefault.jpg",
+  "views": 0,
+  "likes": 0,
+  "date_created": {
+    "$date": "2023-04-13T08:56:12.874Z"
+  },
+  "user_id": "642297fa073568668885db3a",
+  "__v": 0
+}]
